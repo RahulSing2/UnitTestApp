@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/BasicMathTest/obj
+/CalculatorLibrary/obj
+/UnitTestApp/bin/Debug/netcoreapp3.1
+/CalculatorLibrary/bin/Debug/netcoreapp3.1
+/BasicMathTest/bin/Release/netcoreapp3.1
+/BasicMathTest/bin/Debug/netcoreapp3.1
+/UnitTestApp/obj
